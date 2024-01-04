@@ -1,0 +1,29 @@
+body {
+  background-color: grey;
+}
+
+#cont {
+  background-color: lightblue;
+  border: 5px solid green;
+  height: 275px;
+  width: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 22px;
+  background-color: rgb(192, 191, 191);
+}
+#btn:hover{
+    scale: 0.9;
+    transition: 1.2s;
+}
+
+#output {
+  margin: 25px auto;
+  font-size: 26px;
+}
